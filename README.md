@@ -78,5 +78,5 @@ Feel free to fork this repository, raise issues, or submit pull requests for imp
 
 ---
 ### Author
-**Aleena Ann Tomy** 🚀
+**Aleena Ann Tomy** 
 
